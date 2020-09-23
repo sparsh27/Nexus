@@ -28,7 +28,7 @@ pipeline{
 [
 artifactId: 'ILP', 
 classifier: '', 
-file: 'target/ILP-1.0.war', 
+file: 'target/Book.war', 
 type: 'war'
 ] 
 ], 
